@@ -1,6 +1,8 @@
 <div align="center">
   
+<!-- 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&color=00C3FF&center=true&lines=-QiYuan-)
+-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QiYuan-Zhang&count_private=true&show_icons=true&theme=radical)
 
