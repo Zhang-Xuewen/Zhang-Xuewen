@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" /><img src="https://img.shields.io/badge/-Matlab-success?style=flat-square&logo=DIS" />
 <p>✨ Reduced-order Koopman-based modeling and robust predictive control </p>
 <p>✨ Learning-enabled hybrid modeling and economic model predictive control  </p>
+<p>✨ Data-enabled predictive control (DeePC) </p>
 
 #### Methods
 <p>⚡ Machine learning based modeling  </p>
