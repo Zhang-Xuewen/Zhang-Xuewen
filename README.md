@@ -1,11 +1,18 @@
-### Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&color=00C3FF&center=true&lines=-QiYuan-)
 
-<div align="center">
-	<img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai](https://metrics.lecoq.io/QiYuan-Zhang?template=classic&isocalendar=1&topics=1&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&topics=false&topics.mode=starred&topics.sort=stars&topics.limit=15&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&config.timezone=Asia%2FSingapore)">
-</div>
+<img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" /><img src="https://img.shields.io/badge/-Matlab-success?style=flat-square&logo=DIS" />
 
-![Metrics](https://metrics.lecoq.io/QiYuan-Zhang?template=classic&isocalendar=1&topics=1&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&topics=false&topics.mode=starred&topics.sort=stars&topics.limit=15&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&config.timezone=Asia%2FSingapore)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QiYuan-Zhang&count_private=true&show_icons=true&theme=radical)
 
+<p>#### Projects</p>
+<p>✨ Reduced-order Koopman-based modeling and robust predictive control </p>
+<p>✨ Learning-enabled hybrid modeling and economic model predictive control  </p>
+
+<p>#### Methods</p>
+<p>⚡ Machine learning based modeling  </p>
+<p>⚡ Model predictive control </p>
+<p>⚡ Cross-entropy method </p>
+  
 <!--
 **QiYuan-Zhang/QiYuan-Zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
