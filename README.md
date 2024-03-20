@@ -18,7 +18,7 @@
 -->
 
 #### Projects
-<p>✨ Reduced-order Koopman-based modeling and robust predictive control <a href="https://doi.org/10.1016/j.compchemeng.2023.108440">[1]</a>[2]<img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" /><img src="https://img.shields.io/badge/-Matlab-success?style=flat-square&logo=DIS" /> </p>
+<p>✨ <a href="https://doi.org/10.1016/j.compchemeng.2023.108440">Reduced-order Koopman-based modeling and robust predictive control </a><img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" /><img src="https://img.shields.io/badge/-Matlab-success?style=flat-square&logo=DIS" /> </p>
 <p>✨ Learning-enabled hybrid modeling and economic model predictive control  <img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" /></p>
 <p>✨ Data-enabled predictive control (DeePC) <img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" /></p>
 
