@@ -2,11 +2,10 @@
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&color=00C3FF&center=true&lines=-QiYuan-)
 
-<img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" /><img src="https://img.shields.io/badge/-Matlab-success?style=flat-square&logo=DIS" />
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QiYuan-Zhang&count_private=true&show_icons=true&theme=radical)
 
 #### Projects
+<img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" /><img src="https://img.shields.io/badge/-Matlab-success?style=flat-square&logo=DIS" />
 <p>✨ Reduced-order Koopman-based modeling and robust predictive control </p>
 <p>✨ Learning-enabled hybrid modeling and economic model predictive control  </p>
 
