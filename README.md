@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align="center">
+	<img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai](https://metrics.lecoq.io/QiYuan-Zhang?template=classic&isocalendar=1&topics=1&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&topics=false&topics.mode=starred&topics.sort=stars&topics.limit=15&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&config.timezone=Asia%2FSingapore)">
+</div>
+
 ![Metrics](https://metrics.lecoq.io/QiYuan-Zhang?template=classic&isocalendar=1&topics=1&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&topics=false&topics.mode=starred&topics.sort=stars&topics.limit=15&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&config.timezone=Asia%2FSingapore)
 
 <!--
