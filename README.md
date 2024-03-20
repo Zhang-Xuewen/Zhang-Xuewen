@@ -30,7 +30,7 @@
 
 <br/><br/>
 
-<img align='left' src='IMG_5775.PNG' width='150'>
+<img align='left' src='IMG_5775.PNG' width='120'>
 
 <img align='right' src='IMG_5776.PNG' width='150'>
 
