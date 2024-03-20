@@ -19,7 +19,7 @@
 
 #### Projects
 <img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" /><img src="https://img.shields.io/badge/-Matlab-success?style=flat-square&logo=DIS" />
-<p>✨ Reduced-order Koopman-based modeling and robust predictive control </p>
+<p>✨ Reduced-order Koopman-based modeling and robust predictive control <img align='center' src='https://github.com/QiYuan-Zhang/QiYuan-Zhang/assets/53491122/5f581d3f-4533-4ab7-9885-6f78b7082a97' alt="gif" width="400" > </p>
 <p>✨ Learning-enabled hybrid modeling and economic model predictive control  </p>
 <p>✨ Data-enabled predictive control (DeePC) </p>
 
