@@ -28,7 +28,6 @@
 <p>⚡ Model predictive control </p>
 <p>⚡ Cross-entropy method </p>
 
-<br/><br/>
 
 <img align='left' src='IMG_5775.PNG' width='120'>
 
