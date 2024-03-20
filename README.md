@@ -2,6 +2,7 @@
 
 ![IMG_5779](https://github.com/QiYuan-Zhang/QiYuan-Zhang/assets/53491122/5f581d3f-4533-4ab7-9885-6f78b7082a97)
 
+<img src='https://github.com/QiYuan-Zhang/QiYuan-Zhang/assets/53491122/5f581d3f-4533-4ab7-9885-6f78b7082a97' alt="gif" width="300" >
 <!-- 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&color=00C3FF&center=true&lines=-QiYuan-)
 -->
