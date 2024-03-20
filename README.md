@@ -2,9 +2,9 @@
 
 <img align='center' src='https://github.com/QiYuan-Zhang/QiYuan-Zhang/assets/53491122/5f581d3f-4533-4ab7-9885-6f78b7082a97' alt="gif" width="400" >
 
-<img align='left' src='IMG_5778.PNG' width='100'>
+<img align='left' src='IMG_5778.PNG' width='150'>
 
-<img align='right' src='IMG_5777.PNG' width='100'>
+<img align='right' src='IMG_5777.PNG' width='150'>
 
 <br/><br/>
 <!--
@@ -27,6 +27,14 @@
 <p>⚡ Machine learning based modeling  </p>
 <p>⚡ Model predictive control </p>
 <p>⚡ Cross-entropy method </p>
+
+<br/><br/>
+
+<img align='left' src='IMG_5775.PNG' width='150'>
+
+<img align='right' src='IMG_5776.PNG' width='150'>
+
+
   
 <!--
 **QiYuan-Zhang/QiYuan-Zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
