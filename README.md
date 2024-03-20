@@ -18,9 +18,9 @@
 -->
 
 #### Projects
-<p>✨ <a href="https://doi.org/10.1016/j.compchemeng.2023.108440">Reduced-order Koopman-based modeling and robust predictive control </a><img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" width='20' /><img src="https://img.shields.io/badge/-Matlab-success?style=flat-square&logo=DIS" /> </p>
-<p>✨ Learning-enabled hybrid modeling and economic model predictive control  <img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" /></p>
-<p>✨ Data-enabled predictive control (DeePC) <img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" /></p>
+<p>✨ <a href="https://doi.org/10.1016/j.compchemeng.2023.108440">Reduced-order Koopman-based modeling and robust predictive control </a><img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" width='60' /><img src="https://img.shields.io/badge/-Matlab-success?style=flat-square&logo=DIS" width='60'/> </p>
+<p>✨ Learning-enabled hybrid modeling and economic model predictive control  <img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" width='60'/></p>
+<p>✨ Data-enabled predictive control (DeePC) <img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" width='60' /></p>
 
 #### Methods
 <p>🔬 Machine learning based modeling  </p>
