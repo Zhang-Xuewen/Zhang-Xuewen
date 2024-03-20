@@ -24,10 +24,13 @@
 <p>✨ Data-enabled predictive control (DeePC) </p>
 
 #### Methods
-<p>⚡ Machine learning based modeling  </p>
-<p>⚡ Model predictive control </p>
-<p>⚡ Cross-entropy method </p>
+<p>🔬 Machine learning based modeling  </p>
+<p>🔬 Model predictive control </p>
+<p>🔬 Cross-entropy method </p>
 
+#### Applications
+<p>📌 Reactor-separator process  </p>
+<p>📌 Shipboard post-combustion carbon capture process </p>
 
 <img align='left' src='IMG_5775.PNG' width='120'>
 
