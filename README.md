@@ -33,7 +33,7 @@
 
 #### Toolboxes
 <p>💼 <a href="https://github.com/QiYuan-Zhang/DeePCtools">deepctools</a> for data-enabled predictive control</p>
-<p>💼 <a href="https://github.com/QiYuan-Zhang/ModLinear">mollinear</a> for model linearization</p>
+<p>💼 <a href="https://github.com/QiYuan-Zhang/ModLinear">modlinear</a> for model linearization</p>
 
 <img align='left' src='IMG_5775.PNG' width='120'>
 
