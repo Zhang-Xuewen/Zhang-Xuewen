@@ -20,20 +20,23 @@
 #### Projects
 <p>📌 <a href="https://doi.org/10.1016/j.compchemeng.2023.108440">Reduced-order Koopman-based modeling and robust predictive control </a><img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" width='40' /><img src="https://img.shields.io/badge/-Matlab-success?style=flat-square&logo=DIS" width='39'/> </p>
 <p>📌 Learning-enabled hybrid modeling and economic model predictive control  <img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" width='40'/></p>
-<p>📌 Data-enabled predictive control (DeePC) <img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" width='40' /></p>
+<p>📌 Deep DeePC: Data-enabled predictive control with low or no online optimization using deep learning <img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" width='40' /></p>
 
 #### Methods
 <p>🔬 Machine learning based modeling  </p>
 <p>🔬 Model predictive control </p>
+<p>🔬 Date-enabled predictive control </p>
 <p>🔬 Cross-entropy method </p>
 
 #### Applications
 <p>✨ Reactor-separator process  </p>
+<p>✨ Gene regulatory network  </p>
 <p>✨ Shipboard post-combustion carbon capture process </p>
 
 #### Toolboxes
 <p>💼 <a href="https://github.com/QiYuan-Zhang/DeePCtools">deepctools</a> for data-enabled predictive control</p>
 <p>💼 <a href="https://github.com/QiYuan-Zhang/ModLinear">modlinear</a> for model linearization</p>
+<p>💼 <a href="https://github.com/QiYuan-Zhang/QYtool">QYtool</a> for research needs</p>
 
 <img align='left' src='IMG_5775.PNG' width='120'>
 
