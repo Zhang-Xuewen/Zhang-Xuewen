@@ -19,7 +19,7 @@
 
 ### My Homepage
 
-<p>🙋🏻‍♂️ <a href="https://zhang-xuewen.github.io/">-QiYuan-</a></p>
+<p>🙋🏻‍♂️ <a href="https://zhang-xuewen.github.io/">-QiYuan-</a> 🙋🏻‍♂️</p>
 
 
 #### Projects
