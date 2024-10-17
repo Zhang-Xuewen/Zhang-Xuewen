@@ -28,27 +28,27 @@
 <p>📌 <a href="https://arxiv.org/abs/2408.16338">Deep DeePC: Data-enabled predictive control with low or no online optimization using deep learning </a> + <a href="https://github.com/QiYuan-Zhang/Deep-DeePC" style="font-size: 6px;">Source code</a>
 <img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" width='40' /></p>
 
-#### Methods
+### Methods
 <p>🔬 Machine learning based modeling  </p>
 <p>🔬 Model predictive control </p>
 <p>🔬 Date-enabled predictive control </p>
 <p>🔬 Cross-entropy method </p>
 
-#### Applications
+### Applications
 <p>✨ Reactor-separator process  </p>
 <p>✨ Gene regulatory network  </p>
 <p>✨ Shipboard post-combustion carbon capture process </p>
 
-#### Toolboxes
+### Toolboxes
 <p>💼 <a href="https://github.com/Zhang-Xuewen/DeePCtools">deepctools</a> for data-enabled predictive control</p>
 <p>💼 <a href="https://github.com/Zhang-Xuewen/ModLinear">modlinear</a> for model linearization</p>
 <p>💼 <a href="https://github.com/Zhang-Xuewen/QYtool">QYtool</a> for research needs</p>
 
-#### Sticker-packs
+### Sticker-packs
 <p>🥳 <a href="https://github.com/Zhang-Xuewen/QiYuan-Hosptial--Sticker-packs">QiYuan Hospital</a></p>
 <p>🥳 <a href="https://github.com/Zhang-Xuewen/NUSRI-ISEM-1st--Sticker-packs">NUSIR ISEM 1st</a></p>
 
-#### Mods
+### Mods
 <p>🎮 <a href="https://github.com/Zhang-Xuewen/Mod-Don-t-Starve-Together">Don't Starve Together</a></p>
 
 <img align='left' src='IMG_5775.PNG' width='120'>
