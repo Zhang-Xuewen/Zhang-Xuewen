@@ -35,9 +35,13 @@
 <p>✨ Shipboard post-combustion carbon capture process </p>
 
 #### Toolboxes
-<p>💼 <a href="https://github.com/QiYuan-Zhang/DeePCtools">deepctools</a> for data-enabled predictive control</p>
-<p>💼 <a href="https://github.com/QiYuan-Zhang/ModLinear">modlinear</a> for model linearization</p>
-<p>💼 <a href="https://github.com/QiYuan-Zhang/QYtool">QYtool</a> for research needs</p>
+<p>💼 <a href="https://github.com/Zhang-Xuewen/DeePCtools">deepctools</a> for data-enabled predictive control</p>
+<p>💼 <a href="https://github.com/Zhang-Xuewen/ModLinear">modlinear</a> for model linearization</p>
+<p>💼 <a href="https://github.com/Zhang-Xuewen/QYtool">QYtool</a> for research needs</p>
+
+#### Sticker-packs
+<p>🥳 <a href="https://github.com/Zhang-Xuewen/QiYuan-Hosptial--Sticker-packs">QiYuan Hospital</a></p>
+<p>🥳 <a href="https://github.com/Zhang-Xuewen/NUSRI-ISEM-1st--Sticker-packs">NUSIR ISEM 1st</a></p>
 
 <img align='left' src='IMG_5775.PNG' width='120'>
 
