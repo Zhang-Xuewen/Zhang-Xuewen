@@ -17,6 +17,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QiYuan-Zhang&count_private=true&show_icons=true&theme=radical)
 -->
 
+### My Homepage
+
+<p>🙋🏻‍♂️ <a href="https://zhang-xuewen.github.io/">-QiYuan-</a></p>
+
+
 #### Projects
 <p>📌 <a href="https://doi.org/10.1016/j.compchemeng.2023.108440">Reduced-order Koopman-based modeling and robust predictive control </a><img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" width='40' /><img src="https://img.shields.io/badge/-Matlab-success?style=flat-square&logo=DIS" width='39'/> </p>
 <p>📌 Learning-enabled hybrid modeling and economic model predictive control  <img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" width='40'/></p>
@@ -42,6 +47,9 @@
 #### Sticker-packs
 <p>🥳 <a href="https://github.com/Zhang-Xuewen/QiYuan-Hosptial--Sticker-packs">QiYuan Hospital</a></p>
 <p>🥳 <a href="https://github.com/Zhang-Xuewen/NUSRI-ISEM-1st--Sticker-packs">NUSIR ISEM 1st</a></p>
+
+#### Mods
+<p>🎮 <a href="https://github.com/Zhang-Xuewen/Mod-Don-t-Starve-Together">Don't Starve Together</a></p>
 
 <img align='left' src='IMG_5775.PNG' width='120'>
 
