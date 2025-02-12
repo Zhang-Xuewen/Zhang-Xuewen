@@ -25,7 +25,7 @@
 ### Projects
 <p>📌 <a href="https://doi.org/10.1016/j.compchemeng.2023.108440">Reduced-order Koopman-based modeling and robust predictive control </a><img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" width='40' /><img src="https://img.shields.io/badge/-Matlab-success?style=flat-square&logo=DIS" width='39'/> </p>
 <p>📌 <a href="https://arxiv.org/abs/2502.05833"/>Machine learning-based hybrid dynamic modeling and economic predictive control of carbon capture process for ship decarbonization</a> <img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" width='40'/></p>
-<p>📌 <a href="[https://arxiv.org/abs/2408.16338](https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.18644)">Deep DeePC: Data-enabled predictive control with low or no online optimization using deep learning </a> + <a href="https://github.com/QiYuan-Zhang/Deep-DeePC" style="font-size: 6px;">Source code</a>
+<p>📌 <a href="https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.18644">Deep DeePC: Data-enabled predictive control with low or no online optimization using deep learning </a> + <a href="https://github.com/QiYuan-Zhang/Deep-DeePC" style="font-size: 6px;">Source code</a>
 <img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" width='40' /></p>
 
 ### Methods
