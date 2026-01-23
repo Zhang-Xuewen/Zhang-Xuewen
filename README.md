@@ -37,6 +37,7 @@
 ### Applications
 <p>✨ Reactor-separator process  </p>
 <p>✨ Gene regulatory network  </p>
+<p>✨ Large-scale connected open-channel water system  </p>
 <p>✨ Shipboard post-combustion carbon capture process </p>
 
 ### Toolboxes
