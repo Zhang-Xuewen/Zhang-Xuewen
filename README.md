@@ -24,33 +24,64 @@
 
 ### Projects
 <p>📌 <a href="https://doi.org/10.1016/j.compchemeng.2023.108440">Reduced-order Koopman-based modeling and robust predictive control </a><img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" width='40' /><img src="https://img.shields.io/badge/-Matlab-success?style=flat-square&logo=DIS" width='39'/> </p>
+
 <p>📌 <a href="https://arxiv.org/abs/2502.05833"/>Machine learning-based hybrid dynamic modeling and economic predictive control of carbon capture process for ship decarbonization</a> <img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" width='40'/></p>
+
 <p>📌 <a href="https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.18644">Deep DeePC: Data-enabled predictive control with low or no online optimization using deep learning </a> + <a href="https://github.com/QiYuan-Zhang/Deep-DeePC" style="font-size: 6px;">Source code</a>
 <img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" width='40' /></p>
 
+<p>📌 <a href="https://doi.org/10.1016/j.apenergy.2025.126336">Transformer-based modeling and design of power-to-methanol processes</a>
+<img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" width='40'/></p>
+
+<p>📌 <a href="https://doi.org/10.1021/acs.iecr.4c02817">Optimization of shipboard post-combustion CO₂ capture</a>
+<img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" width='40'/></p>
+
+<p>📌 <a href="https://doi.org/10.1016/j.watres.2025.125181">Learning-based modeling and data-driven control for open channel water systems</a>
+<img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" width='40'/></p>
+
+<p>📌 Foundation model-based deep symbolic regression for general ODE systems
+<img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" width='40'/></p>
+
+<p>📌 Deep learning-based image segmentation and classification of lung CT images for COVID-19 detection
+<img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" width='40'/></p>
+
+<p>📌 Reinforcement learning with graph attention networks for dynamic scheduling optimization
+<img src="https://img.shields.io/badge/-Python-critical?style=flat-square&logo=DIS" width='40'/></p>
+
 ### Methods
-<p>🔬 Machine learning based modeling  </p>
+<p>🔬 Hybrid modeling </p>
+<p>🔬 Deep symbolic regression </p>
 <p>🔬 Model predictive control </p>
-<p>🔬 Date-enabled predictive control </p>
+<p>🔬 Machine learning based modeling </p>
+<p>🔬 Data-enabled predictive control </p>
+<p>🔬 Image augumentation, segmentation, and classification </p>
 <p>🔬 Cross-entropy method </p>
+<p>🔬 Reinforcement learning </p>
 
 ### Applications
 <p>✨ Reactor-separator process  </p>
 <p>✨ Gene regulatory network  </p>
 <p>✨ Large-scale connected open-channel water system  </p>
 <p>✨ Shipboard post-combustion carbon capture process </p>
+<p>✨ Bike-sharing system </p>
+<p>✨ Medical image analysis </p>
 
 ### Toolboxes
-<p>💼 <a href="https://github.com/Zhang-Xuewen/Reference-Collector">Ref Collector</a> for batch downloading papers from scholar</p>
 <p>💼 <a href="https://github.com/Zhang-Xuewen/DeePCtools">deepctools</a> for data-enabled predictive control</p>
 <p>💼 <a href="https://github.com/Zhang-Xuewen/ModLinear">modlinear</a> for model linearization</p>
-<p>💼 <a href="https://github.com/Zhang-Xuewen/QYtool">QYtool</a> for research needs</p>
+<p>💼 <a href="https://github.com/Zhang-Xuewen/QYtool">QYtool</a> for research needs</p
+<p>💼 <a href="https://github.com/Zhang-Xuewen/Reference-Collector">Ref Collector</a> for batch downloading papers from scholar</p>
 
 
+### AI-enabled softwares
+<p>🤖 QiYuanWorkflow — AI agent workflow automation for research and engineering </p>
+<p>🤖 QYAsst — Multi-persona AI voice agent for hands-free task automation</p>
 
 ### Sticker-packs
 <p>🥳 <a href="https://github.com/Zhang-Xuewen/QiYuan-Hosptial--Sticker-packs">QiYuan Hospital</a></p>
 <p>🥳 <a href="https://github.com/Zhang-Xuewen/NUSRI-ISEM-1st--Sticker-packs">NUSIR ISEM 1st</a></p>
+<p>🥳 <a href="https://w.url.cn/s/AcIx0k3">A-Ping After Surviving the PhD 1</a></p>
+<p>🥳 <a href="https://w.url.cn/s/AlaNWIo">A-Ping After Surviving the PhD 2</a></p>
 
 ### Mods
 <p>🎮 <a href="https://github.com/Zhang-Xuewen/Mod-Don-t-Starve-Together">Don't Starve Together</a></p>
